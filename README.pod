@@ -14,7 +14,7 @@ Acme::GiveUp - (╯°□°）╯︵┻━┻  when you just want to give up for 
 
     (╯°□°）╯︵┻━┻
 
-    # problem solved
+    # problem solved (shuts down the computer, by default)
 
 =head1 DESCRIPTION
 
