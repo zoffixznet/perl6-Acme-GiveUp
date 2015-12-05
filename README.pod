@@ -53,8 +53,8 @@ Zoffix Znet L<http://zoffix.com/>
 
 =head1 LICENSE
 
-You can use and distribute this module under the same terms as Perl 6
-itself. See the C<LICENSE> file included in this distribution for complete
-details.
+You can use and distribute this module under the terms of
+The Artistic License 2.0. See the C<LICENSE> file included in this distribution
+for complete details.
 
 =cut
