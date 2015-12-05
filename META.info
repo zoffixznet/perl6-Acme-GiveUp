@@ -1,0 +1,14 @@
+{
+    "name"         : "Acme::GiveUp",
+    "version"      : "1.001001",
+    "description"
+        : "Format conversion, manipulation, and math operations on colours",
+    "depends"      : [ ],
+    "test-depends" : [ "Test" ],
+    "provides"     : {
+        "Acme::GiveUp" : "lib/Acme/GiveUp.pm6"
+    },
+    "author"       : "Zoffix Znet",
+    "authority"    : "zoffixznet",
+    "source-url"   : "git://github.com/zoffixznet/perl6-Acme-GiveUp.git"
+}
