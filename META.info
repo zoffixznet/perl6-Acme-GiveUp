@@ -2,7 +2,7 @@
     "name"         : "Acme::GiveUp",
     "version"      : "1.001001",
     "description"
-        : "Format conversion, manipulation, and math operations on colours",
+        : "(╯°□°）╯︵┻━┻  when you just want to give up for the day",
     "depends"      : [ ],
     "test-depends" : [ "Test" ],
     "provides"     : {
